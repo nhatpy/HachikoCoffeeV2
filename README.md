@@ -1,0 +1,7 @@
+- An React-Native e-commerce app for beverage ordering and delivery drinks and dishes.
+- Teamsize: 4 members
+- My role: full-stack developer
+- My responsibilty: Contribute to database design, user-friendly interface building (Order Screen, Other Screen, Dashboad Screen), CRUD API for some common features
+- Repositories:
+    - [Frontend](https://github.com/bichsonnhat/Hachiko-frontend)
+    - [Backend](https://github.com/bichsonnhat/Hachiko-backend)
