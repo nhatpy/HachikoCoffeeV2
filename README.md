@@ -4,4 +4,5 @@
 - My responsibilty: Contribute to database design, user-friendly interface building (Order Screen, Other Screen, Dashboad Screen), CRUD API for some common features
 - Repositories:
     - [Frontend](https://github.com/bichsonnhat/Hachiko-frontend) (temporary private)
-    - [Backend](https://github.com/bichsonnhat/Hachiko-backend)
+    - [Backend](https://github.com/bichsonnhat/Hachiko-backend) (temporary private)
+    - Using this to check my team project: [Backend](https://github.com/nhatpy/temporary-source)
