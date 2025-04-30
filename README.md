@@ -3,5 +3,5 @@
 - My role: full-stack developer
 - My responsibilty: Contribute to database design, user-friendly interface building (Order Screen, Other Screen, Dashboad Screen), CRUD API for some common features
 - Repositories:
-    - [Frontend](https://github.com/bichsonnhat/Hachiko-frontend)
+    - [Frontend](https://github.com/bichsonnhat/Hachiko-frontend) (temporary private)
     - [Backend](https://github.com/bichsonnhat/Hachiko-backend)
