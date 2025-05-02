@@ -5,4 +5,9 @@
 - Repositories:
     - [Frontend](https://github.com/bichsonnhat/Hachiko-frontend) (temporary private)
     - [Backend](https://github.com/bichsonnhat/Hachiko-backend) (temporary private)
-    - Using this to check my team project: [Backend](https://github.com/nhatpy/temporary-source)
+- Because my team project is temporary private, if you want to get more information about my teammates, I'm going showing you below:
+- Contribute:
+     - [Sơn Nhật](https://github.com/bichsonnhat)
+     - [Hoàng](https://github.com/h0angpc)
+     - [Hiếu](https://github.com/nhdhieuu)
+     - And me [Long Nhật](https://github.com/nhatpy)
