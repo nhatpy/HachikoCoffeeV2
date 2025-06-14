@@ -1,6 +1,6 @@
-[submodule "Temp_HachikoCoffee_BE"]
-	path = Temp_HachikoCoffee_BE
-	url = https://github.com/nhatpy/Temp_HachikoCoffee_BE.git
-[submodule "Temp_HachikoCoffee_FE"]
-	path = Temp_HachikoCoffee_FE
-	url = https://github.com/nhatpy/Temp_HachikoCoffee_FE.git
+[submodule "HachikoCoffee_BE"]
+	path = HachikoCoffee_BE
+	url = https://github.com/bichsonnhat/Hachiko-backend.git
+[submodule "HachikoCoffee_FE"]
+	path = HachikoCoffee_FE
+	url = https://github.com/bichsonnhat/Hachiko-frontend.git
